@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SEARCH</string>
+    <string-array name="countries">
+        <item>Anamika</item>
+        <item>Arihant</item>
+        <item>Dushyant</item>
+        <item>Andorra</item>
+        <item>Avani</item>
+        <item>Ankush</item>
+    </string-array>
+
+</resources>
